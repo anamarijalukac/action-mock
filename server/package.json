@@ -1,0 +1,17 @@
+{
+  "name": "action-mock-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+ "scripts": {
+    "start": "node index.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "cors": "^2.8.5"
+  }
+}
